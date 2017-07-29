@@ -1,11 +1,12 @@
 <?php ?>
-
 <!DOCTYPE html>
 <html>
+
 <head>
-    <title>Demo</title>
+    <title>Demo-title</title>
     <link rel="stylesheet" type="text/css" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
+
 <body>
     <div class="navbar navbar-inverse">
         <div class="container-fluid">
@@ -20,7 +21,6 @@
             </ul>
         </div>
     </div>
-
     <div class="jumbotron">
         <div class="container">
             <h1>Hello, world!</h1>
@@ -30,7 +30,6 @@
             </p>
         </div>
     </div>
-
     <div class="navbar navbar-inverse" style="position: fixed; width:100% !important; bottom: 0px;">
         <div class="container-fluid">
             <ul class="nav navbar-nav">
@@ -44,4 +43,5 @@
         </div>
     </div>
 </body>
+
 </html>
